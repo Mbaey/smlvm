@@ -1,3 +1,7 @@
+什么才算是真正的编程能力？（https://www.zhihu.com/question/31034164/answer/50423838）
+h8liu
+
+
 [![BuildStatus](https://travis-ci.org/shanhuio/smlvm.png?branch=master)](https://travis-ci.org/shanhuio/smlvm)
 
 # Small VM
